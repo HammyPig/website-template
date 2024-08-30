@@ -7,19 +7,13 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    container:
-      image: sphinxdoc/sphinx
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Install dependencies
-        run: |
-          pip install myst-nb
-          pip install pydata-sphinx-theme
-          pip install sphinx-design
-          pip install sphinx-copybutton
+      - name: Install Python packages
+        run: pip install -r ./.devcontainer/requirements.txt
 
       - name: Make static files
         run: make html

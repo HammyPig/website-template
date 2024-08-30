@@ -1,0 +1,5 @@
+sphinx
+myst-nb
+pydata-sphinx-theme
+sphinx-design
+sphinx-copybutton
