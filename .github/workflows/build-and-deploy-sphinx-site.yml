@@ -18,6 +18,8 @@ jobs:
         run: |
           pip install myst-nb
           pip install pydata-sphinx-theme
+          pip install sphinx-design
+          pip install sphinx-copybutton
 
       - name: Make static files
         run: make html
