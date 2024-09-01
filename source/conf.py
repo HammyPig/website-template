@@ -24,7 +24,11 @@ html_theme_options = {
         }
     ],
     
-    "footer_start": [],
+    "footer_start": ["footer-text"],
     "footer_center": [],
     "footer_end": [],
+}
+
+html_context = {
+   "footer_text": "Made with love by James"
 }
