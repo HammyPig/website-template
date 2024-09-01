@@ -12,7 +12,7 @@ html_theme_options = {
 
     "logo": {
         "text": "Title",
-        "image_light": ""
+        "image_light": "_images/example.png"
     },
     
     "icon_links": [
