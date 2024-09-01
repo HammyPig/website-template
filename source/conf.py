@@ -15,6 +15,15 @@ html_theme_options = {
         "image_light": ""
     },
     
+    "icon_links": [
+        {
+            "name": "GitHub",
+            "url": "",
+            "icon": "fa-brands fa-github",
+            "type": "fontawesome"
+        }
+    ],
+    
     "footer_start": [],
     "footer_center": [],
     "footer_end": [],
