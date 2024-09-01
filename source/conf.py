@@ -7,6 +7,7 @@ html_theme = "pydata_sphinx_theme"
 
 html_theme_options = {
     "navbar_start": ["navbar-logo"],
+    "navbar_center": ["empty-space"],
     "footer_start": [],
     "footer_center": [],
     "footer_end": [],
