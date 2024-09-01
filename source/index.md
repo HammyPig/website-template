@@ -13,7 +13,7 @@ This is a link to the included example standalone page. Use this as a template f
 :::
 
 :::{grid-item-card} Example Section
-:link: general/example-page
+:link: example-section/example-page1
 
 This is a link to the included example section. Use this as a template for creating new sections.
 :::
