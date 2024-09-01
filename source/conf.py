@@ -33,3 +33,13 @@ html_context = {
    "default_mode": "light",
    "footer_text": "Made with love by James"
 }
+
+sd_custom_directives = {
+    "card-grid": {
+        "inherit": "grid",
+        "argument": "1 2 2 3",
+        "options": {
+            "gutter": "4",
+        },
+    },
+}
