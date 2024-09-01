@@ -9,6 +9,12 @@ html_theme_options = {
     "navbar_start": ["navbar-logo"],
     "navbar_center": ["empty-space"],
     "navbar_end": ["navbar-icon-links"],
+
+    "logo": {
+        "text": "Title",
+        "image_light": ""
+    },
+    
     "footer_start": [],
     "footer_center": [],
     "footer_end": [],
