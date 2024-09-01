@@ -23,6 +23,8 @@ html_theme_options = {
             "type": "fontawesome"
         }
     ],
+
+    "show_prev_next": False,
     
     "footer_start": ["footer-text"],
     "footer_center": [],
