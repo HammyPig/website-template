@@ -6,6 +6,7 @@ templates_path = ["_templates"]
 html_theme = "pydata_sphinx_theme"
 
 html_theme_options = {
+    "navbar_start": ["navbar-logo"],
     "footer_start": [],
     "footer_center": [],
     "footer_end": [],
