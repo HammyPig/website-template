@@ -42,4 +42,11 @@ sd_custom_directives = {
             "gutter": "4",
         },
     },
+
+    "button": {
+        "inherit": "button-link",
+        "options": {
+            "color": "primary"
+        }
+    }
 }
