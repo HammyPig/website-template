@@ -18,7 +18,7 @@ html_theme_options = {
     "icon_links": [
         {
             "name": "GitHub",
-            "url": "",
+            "url": "https://github.com/HammyPig/website-template",
             "icon": "fa-brands fa-github",
             "type": "fontawesome"
         }
