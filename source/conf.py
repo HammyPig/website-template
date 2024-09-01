@@ -30,5 +30,6 @@ html_theme_options = {
 }
 
 html_context = {
+   "default_mode": "light",
    "footer_text": "Made with love by James"
 }
