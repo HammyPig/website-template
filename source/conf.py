@@ -20,7 +20,7 @@ html_theme_options = {
             "name": "GitHub",
             "url": "https://github.com/HammyPig/website-template",
             "icon": "fa-brands fa-github"
-        }
+        },
     ],
 
     "show_prev_next": False,
